@@ -1,0 +1,35 @@
+
+
+div {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: 1;
+
+}
+
+h1 { 
+   
+   
+    flex-grow: 1;
+    background-color: olive;
+    padding: 10px;
+    color: rgb(255, 230, 0);
+    
+}
+
+.menu {
+
+    margin-top: 21px;
+    
+    height: 57px;
+    width: 100px;
+    border: 0px;
+    cursor: pointer;
+    background-color: rgb(255, 230, 0);
+    font-size:larger;
+    font-weight: bold;
+    
+    
+}
+
